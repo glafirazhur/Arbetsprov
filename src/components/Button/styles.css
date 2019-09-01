@@ -1,0 +1,21 @@
+.button {
+    appearance: none;
+    border: none;
+    background-image: none;
+    background-color: unset;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+
+}
+
+.button--edit {
+    background-image: url('icons/edit.svg');
+}
+
+.button--remove {
+    background-image: url('icons/garbage.svg');
+}
