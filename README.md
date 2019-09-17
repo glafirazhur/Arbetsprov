@@ -1,8 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Welcome to Mondido
-Congratulations on making it this far. Beyond this point lies work satisfaction and great colleagues, but first, you must prove yourself in one last feat of coding prowess to prove your worth. Beyond this brief introductory text lies a somewhat lacking specification to a problem we want you to solve. Mind, the specification was created by a team of management consultants, sold by a dedicated and customer-pleasing team of salespersons lacking in nothing but their total disregard of realistic deadlines and developer frustration levels, to a customer now chomping at the bit to release the feature to thousands of customers. Failure is not an option, and it is up to you to ship this feature and save the world by doing so.
-
+# Mondido test assignment
 ## The task
 I want you to build a task tracking application. It is up to you to add any feature that you might enhance this simple application and staple of programming lore. In the words of the regional sales manager,it is my job to overpromise, and it is your duty to over deliver. There are, however, a few requirements for you to follow. See below for instructions. 
 

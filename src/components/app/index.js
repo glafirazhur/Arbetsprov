@@ -57,7 +57,6 @@ const dropElem  = (e) => {
     e.preventDefault();
     const data = e.dataTransfer.getData("element");
     const dragDropElement = document.getElementById(data);
-
     e.target.closest('.drop-area').appendChild(dragDropElement);
 };
 
