@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 100vh;
+}
+
+.col:not(:last-child) {
+    border-right: 1px solid #eeeeee;
+}
+
+.col__header {
+    font-size: 18px;
+    border-bottom: 1px solid #eeeeee;
+    padding: 20px;
+}
+
+.col__cards-area {
+    padding: 20px;
+    height: 100%;
+}
+
